@@ -1,0 +1,11 @@
+{
+"type": "FeatureCollection",
+"name": "ERA5_grid_poly",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "ID": 8558, "Longitude": -79.625, "Latitude": 43.75 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -79.6875, 43.6875 ], [ -79.6875, 43.8125 ], [ -79.5625, 43.8125 ], [ -79.5625, 43.6875 ], [ -79.6875, 43.6875 ] ] ] } },
+{ "type": "Feature", "properties": { "ID": 8559, "Longitude": -79.5, "Latitude": 43.75 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -79.5625, 43.6875 ], [ -79.5625, 43.8125 ], [ -79.4375, 43.8125 ], [ -79.4375, 43.6875 ], [ -79.5625, 43.6875 ] ] ] } },
+{ "type": "Feature", "properties": { "ID": 8602, "Longitude": -79.625, "Latitude": 43.625 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -79.6875, 43.5625 ], [ -79.6875, 43.6875 ], [ -79.5625, 43.6875 ], [ -79.5625, 43.5625 ], [ -79.6875, 43.5625 ] ] ] } },
+{ "type": "Feature", "properties": { "ID": 8603, "Longitude": -79.5, "Latitude": 43.625 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -79.5625, 43.5625 ], [ -79.5625, 43.6875 ], [ -79.4375, 43.6875 ], [ -79.4375, 43.5625 ], [ -79.5625, 43.5625 ] ] ] } }
+]
+}
